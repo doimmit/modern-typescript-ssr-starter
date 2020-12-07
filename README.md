@@ -1,1 +1,1 @@
-# ts-starter
+# doimmit/modern-ssr-boilerplate
